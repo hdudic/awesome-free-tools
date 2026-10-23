@@ -51,6 +51,9 @@ jobs:
           echo "index.js failed!"
           exit 1
 
+      - name: Format generated Markdown
+        run: npx --yes prettier@3.6.2 --write README.md category.md
+
       - name: Commit and push if category.md changed
         if: github.event_name != 'pull_request'
         run: |
