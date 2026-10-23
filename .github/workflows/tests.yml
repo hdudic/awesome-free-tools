@@ -22,15 +22,23 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const requiredWorkflows = ["Awesome Lint", "Build Category"];
-            const { data: runs } = await github.rest.actions.listWorkflowRunsForRepo({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              per_page: 100
-            });
-            const failed = requiredWorkflows.some(name => {
-              const run = runs.workflow_runs.find(r => r.name === name && r.head_branch === context.ref.replace('refs/heads/', ''));
-              return !run || run.conclusion !== "success";
-            });
+            // Both checks remain mandatory and must pass for this exact commit.
+            const sha = context.payload.pull_request?.head.sha
+              ?? context.payload.workflow_run?.head_sha ?? context.sha;
+            let failed = true;
+            for (let attempt = 0; attempt < 18; attempt++) {
+              const { data: runs } = await github.rest.actions.listWorkflowRunsForRepo({
+                owner: context.repo.owner, repo: context.repo.repo, per_page: 100
+              });
+              const required = requiredWorkflows.map(name => runs.workflow_runs.find(
+                run => run.name === name && run.head_sha === sha
+              ));
+              if (required.every(run => run?.status === "completed")) {
+                failed = required.some(run => run.conclusion !== "success");
+                break;
+              }
+              if (attempt < 17) await new Promise(resolve => setTimeout(resolve, 10000));
+            }
             core.setOutput("failed", failed);
       - name: ❌ Fail if any workflow failed
         if: steps.get_runs.outputs.failed == 'true'

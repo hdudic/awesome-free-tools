@@ -6,13 +6,11 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-2e3359?logo=buymeacoffee)](https://buymeacoffee.com/mathewlewallen) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-2e3359) ![Made for Everyone](https://img.shields.io/badge/Made%20for-Everyone-2e3359) ![Open Source](https://img.shields.io/badge/open%20source-%E2%9C%94-2e3359) [![](https://img.shields.io/liberapay/goal/mathewlewallen?logo=liberapay)](https://liberapay.com/mathewlewallen/)
 
-
 ## Contents
 
 - [Completely Free (Hosted, No Limits)](#completely-free-hosted-no-limits)
 - [Free with Generous Tier](#free-with-generous-tier)
 - [Project Badges](#project-badges)
-
 
 Every tool in this list is easy to integrate into any application. Therefore, the lists are separated by their pricing tiers.
 
@@ -21,6 +19,7 @@ See [category.md](category.md) for a list sorted by categories.
 See [queue.md](queue.md) for tools being reviewed to add to the list.
 
 ---
+
 <p align="center">
   <strong><ins><em><span style="font-size: 1.75em;">Free & Easy to Integrate</span></em></ins></strong>
 </p>
@@ -34,165 +33,163 @@ See [queue.md](queue.md) for tools being reviewed to add to the list.
 
 ---
 
-
 ## Completely Free (Hosted, No Limits)
 
-Site | Category | Description
------|----------|------------
-[ChatGPT] | `AI` | Conversational AI model for code and productivity tasks.
-[Claude] | `AI` | AI by Anthropic with a strong focus on ethical alignment.
-[DeepSeek] | `AI` | AI-powered search and assistant.
-[Google Gemini] | `AI` | Multimodal AI platform from Google for writing, coding, and image tasks.
-[Kandinsky 3 Playground] | `AI` | Image generator powered by Sberbanks Kandinsky diffusion model.
-[Mistral AI Playground] | `AI` | No-login playground to test Mixtral and other Mistral open LLMs.
-[NotebookLM] | `AI` | Google AI research assistant that answers questions about your uploaded docs.
-[Open WebUI] | `AI` | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral.
-[Qodo] | `AI` | AI programming partner.
-[Sourcegraph Cody] | `AI` | AI assistant for code navigation and refactoring (VS Code & CLI).
-[GoatCounter] | `Analytics` | Lightweight, privacy-respecting web analytics.
-[Hoppscotch] | `API` | Open-source API client for REST, GraphQL and WebSocket testing.
-[OpenAPI.Tools] | `API` | Directory of free tools for designing and testing OpenAPI specs.
-[Public APIs] | `API` | Searchable index of free public APIs with examples.
-[AWS Free Tier] | `Cloud` | Cloud services with always-free and trial tiers.
-[Google Cloud Free Tier] | `Cloud` | GCP services with free-tier access and generous trial. Look into the $$$ extras.
-[Microsoft Azure Free Tier] | `Cloud` | Microsoft cloud services with free quotas and credits. Look into the $$$ credit and extras.
-[Code Climate] | `Code Quality` | Automated code review and test coverage (Free for OSS).
-[Carbon] | `Design` | Convert code snippets to share-ready images.
-[Diagrams.net] | `Design` | Diagramming tool for flowcharts, architecture, org charts, and more.
-[Fontshare] | `Design` | Free, high-quality commercial-use fonts.
-[Haikei] | `Design` | SVG background generator for waves, blobs, gradients, and more.
-[Iconshock Free Bundle] | `Design` | Thousands of editable, royalty-free SVG/PNG icon sets.
-[JigsawMake] | `Design` | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards.
-[Monaspace Fonts] | `Design` | Distinctive family of monospaced fonts by GitHub.
-[OpenPeeps] | `Design` | Hand-drawn vector illustration library for UI mock-ups.
-[Ray.so] | `Design` | Create beautiful code screenshots with customizable themes.
-[Astro] | `Development` | Static-site framework that ships zero JS by default.
-[DevDocs] | `Development` | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.
-[Docker] | `DevOps` | Container platform for building and deploying apps.
-[FileZilla] | `DevOps` | FTP client for transferring files to servers.
-[FreeFileSync] | `DevOps` | Folder comparison and synchronization tool.
-[Laragon] | `DevOps` | Local server for Windows.
-[PuTTY] | `DevOps` | Terminal emulator and SSH client.
-[Slack GitHub Action] | `DevOps` | Sends deploy, PR, or error notifications directly to your Slack.
-[Turborepo Cache] | `DevOps` | Free on Vercel, speeds up builds across monorepo packages.
-[WinSCP] | `DevOps` | SFTP, FTP, and SCP client for file transfer.
-[XAMPP] | `DevOps` | Local development environment for PHP and MySQL.
-[Klotho] | `DevTools` | CLI that converts application code into cloud infrastructure.
-[Responsively App] | `DevTools` | Browser to test websites across multiple viewports simultaneously.
-[Snippet Generator] | `DevTools` | Generate styled code-snippet images for sharing.
-[ZeroKit.dev] | `DevTools` | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.
-[CloudFlare] | `DNS/CDN` | Global CDN, DDoS protection, DNS, and analytics.
-[ClouDNS] | `DNS/CDN` | Managed DNS hosting provider.
-[FreeCodeCamp] | `Education` | Full coding curriculum with certifications and projects.
-[Lark Email] | `Email` | Business email from the Lark Suite.
-[Amazon S3] | `Hosting` | Static file storage and hosting with public access support.
-[Firebase Hosting] | `Hosting` | Google service to host and deploy static and dynamic content.
-[GitHub Pages] | `Hosting` | Free static site hosting directly from GitHub repos.
-[Netlify] | `Hosting` | Serverless web deployment with CI/CD, functions, and forms.
-[Surge] | `Hosting` | Static site publishing for frontend devs via CLI.
-[Vercel] | `Hosting` | Zero-config frontend deployment with CDN and preview URLs.
-[Cloud9] | `IDE` | AWS-hosted online IDE.
-[CodeAnywhere] | `IDE` | Cloud IDE for remote teams and containers.
-[Eclipse] | `IDE` | IDE for Java and web development.
-[Google IDX] | `IDE` | Web-based AI-powered IDE by Google.
-[JetBrains IDEs] | `IDE` | Professional tools for web and enterprise languages.
-[Koding] | `IDE` | Cloud development environments (Free for OSS).
-[NetBeans] | `IDE` | Apache IDE for Java and other languages.
-[Visual Studio] | `IDE` | Full-featured IDE for Windows development.
-[VSCode.dev] | `IDE` | Browser-based version of VSCode.
-[VSCode] | `IDE` | Open source code editor from Microsoft.
-[Windsurf] | `IDE` | AI-powered coding experience by Codeium.
-[Certificates] | `Miscellaneous` | Free computer science certifications to showcase your knowledge.
-[Cyber Security University] | `Miscellaneous` | Free educational resources that focus on learning by doing.
-[Free for Developers] | `Miscellaneous` | A list of things that are free for Devs.
-[Free Programming Books] | `Miscellaneous` | Free books on programming for anyone.
-[Free Software] | `Miscellaneous` | Free software for anyone to use.
-[KDE] | `Miscellaneous` | A free software community dedicated to creating an open and user-friendly computing experience.
-[Open Source Supporters] | `Miscellaneous` | Companies that offer their tools and services for free to open source projects.
-[PocketBase] | `Miscellaneous` | An open-source, Go-based backend in one file.
-[Robotic Tooling] | `Miscellaneous` | Free and open tools for professional robotic development.
-[Tor] | `Miscellaneous` | A free overlay network for enabling anonymous communication.
-[Web Monetization] | `Miscellaneous` | A free open web standard service that allows you to send money directly in your browser.
-[Better Uptime] | `Monitoring` | Free uptime monitoring with email/SMS alerts and a hosted status page.
-[Coolify Status] | `Monitoring` | Open-source status-page dashboard for uptime and incident tracking.
-[Pingdom] | `Monitoring` | Uptime and performance monitoring.
-[Langfuse OSS] | `Observability` | Analytics & tracing platform for LLM apps (open source).
-[GTMetrix] | `Performance` | Website speed and performance reports.
-[PageSpeed Insights] | `Performance` | Google's tool for analyzing web performance.
-[WebPageTest] | `Performance` | Real browser-based performance testing.
-[CodePen] | `Playground` | Frontend design sandbox with live preview.
-[JSBin] | `Playground` | JS testing tool with live code sharing.
-[JSFiddle] | `Playground` | Live HTML/CSS/JS editor with preview.
-[Plunker] | `Playground` | Online community for creating and sharing web apps.
-[Runno Playground] | `Playground` | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly.
-[Tana Packer] | `Productivity` | CLI to export Tana outlines to Markdown.
-[Calendly Embed] | `Scheduling` | Add meeting scheduling links or inline widgets with no backend.
-[80Legs] | `Scraping` | Web crawling and scraping engine.
-[Abstract Web Scraping API] | `Scraping` | Structured web scraping API.
-[Dexi.io] | `Scraping` | Visual web scraping and data automation tool.
-[Import.io] | `Scraping` | Extract structured data from any website.
-[ParseHub] | `Scraping` | Extract data from websites using a visual builder.
-[Scraper (Chrome)] | `Scraping` | Chrome extension to extract structured data from web pages.
-[ScrapingHub] | `Scraping` | Cloud-based scraping platform.
-[Scrapy] | `Scraping` | Python framework for extracting data from websites.
-[Web Scraper (Chrome)] | `Scraping` | Chrome extension for site navigation and data scraping.
-[Webz.io] | `Scraping` | Web data crawling and scraping API.
-[CodeQL] | `Security` | GitHub-native static code analysis that catches security issues before they ship.
-[CryptoMator] | `Security` | End-to-end encryption for cloud storage.
-[Dependabot] | `Security` | Auto-updates dependencies and patches vulnerabilities in GitHub repos.
-[Let's Encrypt] | `Security` | Free automated TLS/SSL certificates.
-[Socket.dev] | `Security` | Real-time protection from malicious or hijacked npm packages.
-[HttpMaster] | `Testing` | HTTP testing and debugging tool.
-[Sauce Labs] | `Testing` | Cross-browser cloud testing platform.
-[Turborepo] | `Tooling` | High-performance build system for JS/TS monorepos.
-[Neobrutalism Components] | `UI Kit` | Brutalist Tailwind component library for landing pages.
-[OpenUI] | `UI Kit` | Community spec & resources for accessible custom elements.
-[Tails] | `UI Kit` | Library of modern Tailwind CSS components and templates.
-[Documenso] | `Utilities` | Open-source digital document-signing platform.
-[Mailtolink.me] | `Utilities` | Generate custom mailto: links with pre-filled fields.
-[SmallDev.tools] | `Utilities` | Online formatters, validators, and developer helpers—no signup.
-[Snapdrop] | `Utilities` | Browser-based AirDrop alternative for local file transfers.
-[AWS CodeCommit] | `Version Control` | Private Git hosting from Amazon Web Services.
-[Azure Repos] | `Version Control` | Git repos integrated with Azure DevOps.
-[BitBucket] | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.
-[GitHub] | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.
-[GitLab] | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.
-
+| Site                        | Category          | Description                                                                                     |
+| --------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
+| [ChatGPT]                   | `AI`              | Conversational AI model for code and productivity tasks.                                        |
+| [Claude]                    | `AI`              | AI by Anthropic with a strong focus on ethical alignment.                                       |
+| [DeepSeek]                  | `AI`              | AI-powered search and assistant.                                                                |
+| [Google Gemini]             | `AI`              | Multimodal AI platform from Google for writing, coding, and image tasks.                        |
+| [Kandinsky 3 Playground]    | `AI`              | Image generator powered by Sberbanks Kandinsky diffusion model.                                 |
+| [Mistral AI Playground]     | `AI`              | No-login playground to test Mixtral and other Mistral open LLMs.                                |
+| [NotebookLM]                | `AI`              | Google AI research assistant that answers questions about your uploaded docs.                   |
+| [Open WebUI]                | `AI`              | ChatGPT-style UI for interacting with local LLMs such as LLaMA and Mistral.                     |
+| [Qodo]                      | `AI`              | AI programming partner.                                                                         |
+| [Sourcegraph Cody]          | `AI`              | AI assistant for code navigation and refactoring (VS Code & CLI).                               |
+| [GoatCounter]               | `Analytics`       | Lightweight, privacy-respecting web analytics.                                                  |
+| [Hoppscotch]                | `API`             | Open-source API client for REST, GraphQL and WebSocket testing.                                 |
+| [OpenAPI.Tools]             | `API`             | Directory of free tools for designing and testing OpenAPI specs.                                |
+| [Public APIs]               | `API`             | Searchable index of free public APIs with examples.                                             |
+| [AWS Free Tier]             | `Cloud`           | Cloud services with always-free and trial tiers.                                                |
+| [Google Cloud Free Tier]    | `Cloud`           | GCP services with free-tier access and generous trial. Look into the $$$ extras.                |
+| [Microsoft Azure Free Tier] | `Cloud`           | Microsoft cloud services with free quotas and credits. Look into the $$$ credit and extras.     |
+| [Code Climate]              | `Code Quality`    | Automated code review and test coverage (Free for OSS).                                         |
+| [Carbon]                    | `Design`          | Convert code snippets to share-ready images.                                                    |
+| [Diagrams.net]              | `Design`          | Diagramming tool for flowcharts, architecture, org charts, and more.                            |
+| [Fontshare]                 | `Design`          | Free, high-quality commercial-use fonts.                                                        |
+| [Haikei]                    | `Design`          | SVG background generator for waves, blobs, gradients, and more.                                 |
+| [Iconshock Free Bundle]     | `Design`          | Thousands of editable, royalty-free SVG/PNG icon sets.                                          |
+| [JigsawMake]                | `Design`          | Free online puzzle maker for jigsaw, crossword, word search, sudoku and bingo cards.            |
+| [Monaspace Fonts]           | `Design`          | Distinctive family of monospaced fonts by GitHub.                                               |
+| [OpenPeeps]                 | `Design`          | Hand-drawn vector illustration library for UI mock-ups.                                         |
+| [Ray.so]                    | `Design`          | Create beautiful code screenshots with customizable themes.                                     |
+| [Astro]                     | `Development`     | Static-site framework that ships zero JS by default.                                            |
+| [DevDocs]                   | `Development`     | Fast, searchable documentation browser with offline mode for 100-plus languages & APIs.         |
+| [Docker]                    | `DevOps`          | Container platform for building and deploying apps.                                             |
+| [FileZilla]                 | `DevOps`          | FTP client for transferring files to servers.                                                   |
+| [FreeFileSync]              | `DevOps`          | Folder comparison and synchronization tool.                                                     |
+| [Laragon]                   | `DevOps`          | Local server for Windows.                                                                       |
+| [PuTTY]                     | `DevOps`          | Terminal emulator and SSH client.                                                               |
+| [Slack GitHub Action]       | `DevOps`          | Sends deploy, PR, or error notifications directly to your Slack.                                |
+| [Turborepo Cache]           | `DevOps`          | Free on Vercel, speeds up builds across monorepo packages.                                      |
+| [WinSCP]                    | `DevOps`          | SFTP, FTP, and SCP client for file transfer.                                                    |
+| [XAMPP]                     | `DevOps`          | Local development environment for PHP and MySQL.                                                |
+| [Klotho]                    | `DevTools`        | CLI that converts application code into cloud infrastructure.                                   |
+| [Responsively App]          | `DevTools`        | Browser to test websites across multiple viewports simultaneously.                              |
+| [Snippet Generator]         | `DevTools`        | Generate styled code-snippet images for sharing.                                                |
+| [ZeroKit.dev]               | `DevTools`        | 117 free browser-based developer tools including JSON formatter, regex tester, and DNS lookup.  |
+| [CloudFlare]                | `DNS/CDN`         | Global CDN, DDoS protection, DNS, and analytics.                                                |
+| [ClouDNS]                   | `DNS/CDN`         | Managed DNS hosting provider.                                                                   |
+| [FreeCodeCamp]              | `Education`       | Full coding curriculum with certifications and projects.                                        |
+| [Lark Email]                | `Email`           | Business email from the Lark Suite.                                                             |
+| [Amazon S3]                 | `Hosting`         | Static file storage and hosting with public access support.                                     |
+| [Firebase Hosting]          | `Hosting`         | Google service to host and deploy static and dynamic content.                                   |
+| [GitHub Pages]              | `Hosting`         | Free static site hosting directly from GitHub repos.                                            |
+| [Netlify]                   | `Hosting`         | Serverless web deployment with CI/CD, functions, and forms.                                     |
+| [Surge]                     | `Hosting`         | Static site publishing for frontend devs via CLI.                                               |
+| [Vercel]                    | `Hosting`         | Zero-config frontend deployment with CDN and preview URLs.                                      |
+| [Cloud9]                    | `IDE`             | AWS-hosted online IDE.                                                                          |
+| [CodeAnywhere]              | `IDE`             | Cloud IDE for remote teams and containers.                                                      |
+| [Eclipse]                   | `IDE`             | IDE for Java and web development.                                                               |
+| [Google IDX]                | `IDE`             | Web-based AI-powered IDE by Google.                                                             |
+| [JetBrains IDEs]            | `IDE`             | Professional tools for web and enterprise languages.                                            |
+| [Koding]                    | `IDE`             | Cloud development environments (Free for OSS).                                                  |
+| [NetBeans]                  | `IDE`             | Apache IDE for Java and other languages.                                                        |
+| [Visual Studio]             | `IDE`             | Full-featured IDE for Windows development.                                                      |
+| [VSCode.dev]                | `IDE`             | Browser-based version of VSCode.                                                                |
+| [VSCode]                    | `IDE`             | Open source code editor from Microsoft.                                                         |
+| [Windsurf]                  | `IDE`             | AI-powered coding experience by Codeium.                                                        |
+| [Certificates]              | `Miscellaneous`   | Free computer science certifications to showcase your knowledge.                                |
+| [Cyber Security University] | `Miscellaneous`   | Free educational resources that focus on learning by doing.                                     |
+| [Free for Developers]       | `Miscellaneous`   | A list of things that are free for Devs.                                                        |
+| [Free Programming Books]    | `Miscellaneous`   | Free books on programming for anyone.                                                           |
+| [Free Software]             | `Miscellaneous`   | Free software for anyone to use.                                                                |
+| [KDE]                       | `Miscellaneous`   | A free software community dedicated to creating an open and user-friendly computing experience. |
+| [Open Source Supporters]    | `Miscellaneous`   | Companies that offer their tools and services for free to open source projects.                 |
+| [PocketBase]                | `Miscellaneous`   | An open-source, Go-based backend in one file.                                                   |
+| [Robotic Tooling]           | `Miscellaneous`   | Free and open tools for professional robotic development.                                       |
+| [Tor]                       | `Miscellaneous`   | A free overlay network for enabling anonymous communication.                                    |
+| [Web Monetization]          | `Miscellaneous`   | A free open web standard service that allows you to send money directly in your browser.        |
+| [Better Uptime]             | `Monitoring`      | Free uptime monitoring with email/SMS alerts and a hosted status page.                          |
+| [Coolify Status]            | `Monitoring`      | Open-source status-page dashboard for uptime and incident tracking.                             |
+| [Pingdom]                   | `Monitoring`      | Uptime and performance monitoring.                                                              |
+| [Langfuse OSS]              | `Observability`   | Analytics & tracing platform for LLM apps (open source).                                        |
+| [GTMetrix]                  | `Performance`     | Website speed and performance reports.                                                          |
+| [PageSpeed Insights]        | `Performance`     | Google's tool for analyzing web performance.                                                    |
+| [WebPageTest]               | `Performance`     | Real browser-based performance testing.                                                         |
+| [CodePen]                   | `Playground`      | Frontend design sandbox with live preview.                                                      |
+| [JSBin]                     | `Playground`      | JS testing tool with live code sharing.                                                         |
+| [JSFiddle]                  | `Playground`      | Live HTML/CSS/JS editor with preview.                                                           |
+| [Plunker]                   | `Playground`      | Online community for creating and sharing web apps.                                             |
+| [Runno Playground]          | `Playground`      | Runs C, Python, Ruby, Lua, etc. in-browser via WebAssembly.                                     |
+| [Tana Packer]               | `Productivity`    | CLI to export Tana outlines to Markdown.                                                        |
+| [Calendly Embed]            | `Scheduling`      | Add meeting scheduling links or inline widgets with no backend.                                 |
+| [80Legs]                    | `Scraping`        | Web crawling and scraping engine.                                                               |
+| [Abstract Web Scraping API] | `Scraping`        | Structured web scraping API.                                                                    |
+| [Dexi.io]                   | `Scraping`        | Visual web scraping and data automation tool.                                                   |
+| [Import.io]                 | `Scraping`        | Extract structured data from any website.                                                       |
+| [ParseHub]                  | `Scraping`        | Extract data from websites using a visual builder.                                              |
+| [Scraper (Chrome)]          | `Scraping`        | Chrome extension to extract structured data from web pages.                                     |
+| [ScrapingHub]               | `Scraping`        | Cloud-based scraping platform.                                                                  |
+| [Scrapy]                    | `Scraping`        | Python framework for extracting data from websites.                                             |
+| [Web Scraper (Chrome)]      | `Scraping`        | Chrome extension for site navigation and data scraping.                                         |
+| [Webz.io]                   | `Scraping`        | Web data crawling and scraping API.                                                             |
+| [CodeQL]                    | `Security`        | GitHub-native static code analysis that catches security issues before they ship.               |
+| [CryptoMator]               | `Security`        | End-to-end encryption for cloud storage.                                                        |
+| [Dependabot]                | `Security`        | Auto-updates dependencies and patches vulnerabilities in GitHub repos.                          |
+| [Let's Encrypt]             | `Security`        | Free automated TLS/SSL certificates.                                                            |
+| [Socket.dev]                | `Security`        | Real-time protection from malicious or hijacked npm packages.                                   |
+| [HttpMaster]                | `Testing`         | HTTP testing and debugging tool.                                                                |
+| [Sauce Labs]                | `Testing`         | Cross-browser cloud testing platform.                                                           |
+| [Turborepo]                 | `Tooling`         | High-performance build system for JS/TS monorepos.                                              |
+| [Neobrutalism Components]   | `UI Kit`          | Brutalist Tailwind component library for landing pages.                                         |
+| [OpenUI]                    | `UI Kit`          | Community spec & resources for accessible custom elements.                                      |
+| [Tails]                     | `UI Kit`          | Library of modern Tailwind CSS components and templates.                                        |
+| [Documenso]                 | `Utilities`       | Open-source digital document-signing platform.                                                  |
+| [Mailtolink.me]             | `Utilities`       | Generate custom mailto: links with pre-filled fields.                                           |
+| [SmallDev.tools]            | `Utilities`       | Online formatters, validators, and developer helpers—no signup.                                 |
+| [Snapdrop]                  | `Utilities`       | Browser-based AirDrop alternative for local file transfers.                                     |
+| [AWS CodeCommit]            | `Version Control` | Private Git hosting from Amazon Web Services.                                                   |
+| [Azure Repos]               | `Version Control` | Git repos integrated with Azure DevOps.                                                         |
+| [BitBucket]                 | `Version Control` | Git solution from Atlassian, integrates with Jira and Trello.                                   |
+| [GitHub]                    | `Version Control` | Code hosting platform with collaboration, CI/CD, and issue tracking.                            |
+| [GitLab]                    | `Version Control` | Full DevOps lifecycle tool, Git hosting and pipelines.                                          |
 
 ---
 
 ## Free with Generous Tier
 
-Site | Category | Description
------|----------|------------
-[Replit Ghostwriter] | `AI` | Coding assistant inside Replit IDE; Starter plan free for 3 public projects.
-[Formbricks] | `Analytics` | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.
-[Plausible Cloud] | `Analytics` | Free for sites under 10k monthly page views.
-[PostHog Cloud] | `Analytics` | Event tracking, feature flags, and product analytics.
-[Repohistory] | `Analytics` | GitHub repo analytics tool; Free for tracking one repo.
-[Auth0] | `Auth` | Authentication/authorization platform.
-[Hookdeck] | `Automation` | Webhook ingestion platform; 100 000 monthly events on the dev tier.
-[Pipedream] | `Automation` | Serverless workflows with 100 000+ monthly executions free.
-[LemonSqueezy] | `Billing` | Free until you earn revenue (fees only on transactions).
-[Stripe] | `Billing` | No platform fee, pay only transaction costs.
-[LottieFiles] | `Design` | JSON animation marketplace/editor; free unlimited previews and basic editing.
-[StackBlitz] | `Development` | Browser IDE; unlimited public projects & repos on free plan.
-[DevTools] | `DevTools` | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more.
-[Pinggy] | `DevTools` | Instant public URLs & tunnels to localhost; unlimited free bandwidth.
-[Mintlify Writer] | `Documentation` | AI documentation editor; hobby plan free for 1 user & custom domain.
-[Mailersend] | `Email` | 3,000 free emails/month with analytics and templates.
-[Resend] | `Email` | Send up to 3,000 emails/month on the free tier.
-[ImgTools] | `Image` | Free online image tools: compress, resize, crop, convert, watermark, and background removal.
-[Highlight.io] | `Monitoring` | Session replay, error tracking, and logging in one SDK.
-[Sentry] | `Monitoring` | Catch and triage frontend/backend exceptions.
-[Vercel Analytics] | `Performance` | Track real-user metrics like TTFB, CLS, and LCP.
-[SimpleLogin] | `Privacy` | Create up to 15 email aliases to hide your real address.
-[Crisp Chat] | `Support` | Free live chat widget with a shared inbox.
-
+| Site                 | Category        | Description                                                                                                                               |
+| -------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [Replit Ghostwriter] | `AI`            | Coding assistant inside Replit IDE; Starter plan free for 3 public projects.                                                              |
+| [Formbricks]         | `Analytics`     | Surveys & product feedback; unlimited surveys, 1 000 responses/mo free.                                                                   |
+| [Plausible Cloud]    | `Analytics`     | Free for sites under 10k monthly page views.                                                                                              |
+| [PostHog Cloud]      | `Analytics`     | Event tracking, feature flags, and product analytics.                                                                                     |
+| [Repohistory]        | `Analytics`     | GitHub repo analytics tool; Free for tracking one repo.                                                                                   |
+| [Auth0]              | `Auth`          | Authentication/authorization platform.                                                                                                    |
+| [Hookdeck]           | `Automation`    | Webhook ingestion platform; 100 000 monthly events on the dev tier.                                                                       |
+| [Pipedream]          | `Automation`    | Serverless workflows with 100 000+ monthly executions free.                                                                               |
+| [LemonSqueezy]       | `Billing`       | Free until you earn revenue (fees only on transactions).                                                                                  |
+| [Stripe]             | `Billing`       | No platform fee, pay only transaction costs.                                                                                              |
+| [LottieFiles]        | `Design`        | JSON animation marketplace/editor; free unlimited previews and basic editing.                                                             |
+| [StackBlitz]         | `Development`   | Browser IDE; unlimited public projects & repos on free plan.                                                                              |
+| [DevTools]           | `DevTools`      | 14 free client-side developer tools: JSON formatter, Base64 encoder, JWT decoder, UUID generator, hash generator, regex tester, and more. |
+| [Pinggy]             | `DevTools`      | Instant public URLs & tunnels to localhost; unlimited free bandwidth.                                                                     |
+| [Mintlify Writer]    | `Documentation` | AI documentation editor; hobby plan free for 1 user & custom domain.                                                                      |
+| [Mailersend]         | `Email`         | 3,000 free emails/month with analytics and templates.                                                                                     |
+| [Resend]             | `Email`         | Send up to 3,000 emails/month on the free tier.                                                                                           |
+| [ImgTools]           | `Image`         | Free online image tools: compress, resize, crop, convert, watermark, and background removal.                                              |
+| [Highlight.io]       | `Monitoring`    | Session replay, error tracking, and logging in one SDK.                                                                                   |
+| [Sentry]             | `Monitoring`    | Catch and triage frontend/backend exceptions.                                                                                             |
+| [Vercel Analytics]   | `Performance`   | Track real-user metrics like TTFB, CLS, and LCP.                                                                                          |
+| [SimpleLogin]        | `Privacy`       | Create up to 15 email aliases to hide your real address.                                                                                  |
+| [Crisp Chat]         | `Support`       | Free live chat widget with a shared inbox.                                                                                                |
 
 ---
 
 <!-- Completely Free -->
+
 [dependabot]: https://github.com/dependabot
 [codeql]: https://github.com/github/codeql-action
 [socket.dev]: https://socket.dev
@@ -313,6 +310,7 @@ Site | Category | Description
 [zerokit.dev]: https://zerokit.dev
 
 <!-- Generous Free Tier -->
+
 [auth0]: https://auth0.com/
 [vercel analytics]: https://vercel.com/docs/analytics
 [highlight.io]: https://highlight.io
@@ -367,8 +365,7 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 ![Active Status](https://img.shields.io/badge/status-active-success)
 ![Tests](https://github.com/mathewlewallen/awesome-free-tools/actions/workflows/tests.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/mathewlewallen/awesome-free-tools)
-![License](https://img.shields.io/github/license/mathewlewallen/awesome-free-tools?tab=CC0-1.0-1-ov-file)  
-
+![License](https://img.shields.io/github/license/mathewlewallen/awesome-free-tools?tab=CC0-1.0-1-ov-file)
 
 ### Community & Support
 
@@ -411,4 +408,3 @@ Badges are a free easy way to enhance README.md files and attract contributors. 
 - [@A-4-Atom](https://github.com/A-4-Atom) - Maintainer.
 
 [↑ Back to Top](#top)
-
