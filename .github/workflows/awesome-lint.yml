@@ -10,10 +10,14 @@ on:
     branches: [main]
     paths:
       - 'README.md'
+      - '.nvmrc'
+      - '.github/workflows/**'
   pull_request:
     branches: [main]
     paths:
       - 'README.md'
+      - '.nvmrc'
+      - '.github/workflows/**'
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
